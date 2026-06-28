@@ -1,20 +1,64 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=enwo%20web&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+<div align="center">
+
+<img src="./enwo-web.jpg" width="180" alt="ENWO WEB Logo"/>
+
+# ENWO WEB
+
+### Front-end Design & Development
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Responsive-Design-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Demo%20Project-orange?style=for-the-badge"/>
+
 </div>
 
-###
+---
 
-<p align="left">پروژه👩‍💻<br>🎯 توضیحات پروژه: شبیه‌ساز سایت معماری و مهندسی ساختمان<br>📋 معرفی پروژه<br>سایتی دمو برای معماری و ساخت و ساز برج و عمارت های معروف در سراسر دنیا<br>🛠 مشخصات فنی<br>توسعه Front-End با HTML5, CSS3, Bootstrap, Tailwind<br><br>طراحی کاملاً ریسپانسیو (سازگار با موبایل، تبلت، دسکتاپ)<br><br>دو زبانه بودن سایت (انگلیسی و فارسی)<br><br>حالت لایت مود و دارک مود که سایت رو کاربرپسند و مدرن نشان میدهد<br><br>⚡ نکته مهم<br>ساختمان و برج های داخل سایت بنا های معروف و تاریخی هستند و تمامی اسامی معماران تیم فیک و نمایشی هستند<br><br>پروژه تمرینی Front-End</p>
+<div dir="rtl">
 
-###
+# 🛒 درباره پروژه
 
-<div align="left">
-  <a href="https://instagram.com/enwo_web" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/enwo_web" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-</div>
+**Pars Build** سایت FRONT-END برای نمونه کار در قالب یک وب سایت معماری و ساخت و ساز ساختمان و برج در سراسر دنیا در سریع ترین زمان ممکن
 
-###
+> ⚡ این پروژه صرفاً جهت نمایش مهارت‌های طراحی رابط کاربری و توسعه Front-End ساخته شده و به هیچ سیستم پرداخت یا دیتابیس متصل نیست.
+
+---
+
+# ✨ ویژگی‌ها
+
+| ویژگی | توضیح |
+|:------|:------|
+| 📱 Responsive | سازگار با موبایل، تبلت و دسکتاپ |
+| 🎨 UI/UX مدرن | طراحی مینیمال و کاربرپسند |
+| 🔥 Pure Front-End | بدون نیاز به Backend |
+| 🌐 English / Persian | سایت دو زبانه با نماد های مختلف هر کشور |
+| 👜 Animations | انیمیشن های کاربرپسند |
+| 🌔 Dark/Light | لایت مود و دارک مود |
+
+
+---
+
+<div align="center">
+
+## 📡 ارتباط با ما
+
+<a href="https://instagram.com/enwo_web">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://t.me/enwo_web">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@enwo_web">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<br><br>
+
+⭐ اگر این پروژه را دوست داشتی، فراموش نکن به آن Star بدهی.
